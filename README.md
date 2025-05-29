@@ -35,6 +35,7 @@
 <li><code>$</code>termux-setup-storage</li>
     <li><code>$</code>pkg install git</li>       <li><code>$</code>pkg install python3</li>
     <li><code>$</code>git clone https://github.com/alwaysjall/RL</li>
+<li><code>$</code>cd RL</li>
          <li><code>$</code>python3 RL.py</li>
          <h2>sekian dan terima kasih<h2>
 <h1 class="glitch">© Always Jall</h1>
